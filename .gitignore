@@ -1,0 +1,14 @@
+*~
+*.pyc
+*.out
+*.aux
+milestone/*log
+proposal/*.log
+report/*.log
+*.data-00000-of-00001
+*.meta
+*.index
+checkpoint
+data/glove/glove*txt
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
