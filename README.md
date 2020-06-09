@@ -1,7 +1,8 @@
 # Proyecto Procesamiento de Lenguaje Natural -- UVG
-##Summary:
+## Summary:
 
 There are still taboos on mental health today, and many people tend to express their problems on websites or social media. Toxic comments are a psychologically difficult subject to escalate. For this, a framework is presented to use deep learning to automatically identify and classify toxic comments into 6 identified subcategories. A bidirectional LSTM architecture will be implemented and an attempt will be made to implement an attention model to help our bidirectional LSTM. The aim is to assign weights to the categories, thus visualizing the activation of the neural network in response to each word within a sentence without losing the qualitative logic of human intuition.
+
 ---------------
 Instructions
 ---------------
